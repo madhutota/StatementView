@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StatementView</string>
+
+    <string name="settlements_fragment">SETTLEMENTS</string>
+    <string name="order_fragment">ORDER WISE</string>
+
+</resources>
